@@ -1,15 +1,13 @@
 <p align="center">
     <img src="https://telegra.ph/file/e43095fb6d07ac324a3c3.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">© HYRO TEAMS</h1>
+<h1 align="center">HYRO TEAMS</h1>
 <p align="center">
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-### HyroTeams. 
-> **INFO**:
-only upload important sources..
-if you want join to this Team, chat Me Via Whatsapp
+> **INFO**: 
+repositories are copyrighted, if you claim to be the owner.. we will act immediately
 
   <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
@@ -28,5 +26,5 @@ if you want join to this Team, chat Me Via Whatsapp
 
 ---------
 
-## BEST REPOSITORIES
+## ```Repositories```
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=hyro-teams&repo=baileys&theme=dark)
