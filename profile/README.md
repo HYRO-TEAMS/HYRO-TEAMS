@@ -9,9 +9,6 @@
 
 <p align="center">
   <a href="https://github.com/hiroosy"><img title="Author" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" width= "23%"/>
-  <a href="https://twitter.com/hiroosyy"><img src="https://img.shields.io/twitter/url?color=gray&label=Twitter&logo=twitter&logoColor=blue&style=flat-square&url=https%3A%2F%2Fgithub.com%2FTobyG74%2FTobyG74%2Fblob%2Fmain%2Ftwitter.png%3Fraw%3Dtrue" width= "23%"/>
-  <a href="https://instagram.com/hiroosyy"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" width= "23%"/>
-  <a href="https://wa.me/996998122380"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" width= "23%"/>
 </p>
 
 ---------
