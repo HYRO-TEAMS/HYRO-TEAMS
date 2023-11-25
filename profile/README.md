@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://telegra.ph/file/e43095fb6d07ac324a3c3.jpg" width="82%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/ff90d46072aced7557566.jpg" width="82%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h3 align="center">HYRO TEAMS</h3>
+<h3 align="center">Schypt X</h3>
 <p align="center">
 
   <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="310"/></a>
